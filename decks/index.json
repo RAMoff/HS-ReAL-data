@@ -1,0 +1,899 @@
+{
+ "updated": 1791047567,
+ "sources": {
+  "hsguru": {
+   "name": "HSGuru",
+   "url": "https://www.hsguru.com/decks"
+  },
+  "hsreplay": {
+   "name": "HSReplay",
+   "url": "https://hsreplay.net/decks/"
+  },
+  "firestone": {
+   "name": "Firestone",
+   "url": "https://www.firestoneapp.com/"
+  }
+ },
+ "files": [
+  {
+   "file": "firestone_standard_all_current-season.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "all",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047186,
+   "count": 426
+  },
+  {
+   "file": "firestone_standard_all_last-patch.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "all",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047186,
+   "count": 6277
+  },
+  {
+   "file": "firestone_standard_all_past-20.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "all",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047186,
+   "count": 4696
+  },
+  {
+   "file": "firestone_standard_all_past-3.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "all",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047185,
+   "count": 961
+  },
+  {
+   "file": "firestone_standard_all_past-7.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "all",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047186,
+   "count": 1783
+  },
+  {
+   "file": "firestone_standard_bronze-gold_current-season.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "bronze-gold",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047203,
+   "count": 256
+  },
+  {
+   "file": "firestone_standard_bronze-gold_last-patch.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "bronze-gold",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047202,
+   "count": 1820
+  },
+  {
+   "file": "firestone_standard_bronze-gold_past-20.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "bronze-gold",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047200,
+   "count": 1218
+  },
+  {
+   "file": "firestone_standard_bronze-gold_past-3.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "bronze-gold",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047199,
+   "count": 547
+  },
+  {
+   "file": "firestone_standard_bronze-gold_past-7.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "bronze-gold",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047199,
+   "count": 651
+  },
+  {
+   "file": "firestone_standard_diamond_current-season.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "diamond",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047195,
+   "count": 135
+  },
+  {
+   "file": "firestone_standard_diamond_last-patch.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "diamond",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047194,
+   "count": 3781
+  },
+  {
+   "file": "firestone_standard_diamond_past-20.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "diamond",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047192,
+   "count": 2739
+  },
+  {
+   "file": "firestone_standard_diamond_past-3.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "diamond",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047191,
+   "count": 335
+  },
+  {
+   "file": "firestone_standard_diamond_past-7.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "diamond",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047191,
+   "count": 749
+  },
+  {
+   "file": "firestone_standard_legend-diamond_current-season.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "legend-diamond",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047191,
+   "count": 145
+  },
+  {
+   "file": "firestone_standard_legend-diamond_last-patch.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "legend-diamond",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047190,
+   "count": 5322
+  },
+  {
+   "file": "firestone_standard_legend-diamond_past-20.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "legend-diamond",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047190,
+   "count": 3705
+  },
+  {
+   "file": "firestone_standard_legend-diamond_past-3.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "legend-diamond",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047188,
+   "count": 359
+  },
+  {
+   "file": "firestone_standard_legend-diamond_past-7.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "legend-diamond",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047189,
+   "count": 1231
+  },
+  {
+   "file": "firestone_standard_legend_current-season.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "legend",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047188,
+   "count": 9
+  },
+  {
+   "file": "firestone_standard_legend_last-patch.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "legend",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047188,
+   "count": 2329
+  },
+  {
+   "file": "firestone_standard_legend_past-20.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "legend",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047187,
+   "count": 1964
+  },
+  {
+   "file": "firestone_standard_legend_past-3.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "legend",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047186,
+   "count": 35
+  },
+  {
+   "file": "firestone_standard_legend_past-7.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "legend",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047186,
+   "count": 596
+  },
+  {
+   "file": "firestone_standard_platinum_current-season.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "platinum",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047199,
+   "count": 77
+  },
+  {
+   "file": "firestone_standard_platinum_last-patch.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "platinum",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047198,
+   "count": 1008
+  },
+  {
+   "file": "firestone_standard_platinum_past-20.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "platinum",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047197,
+   "count": 682
+  },
+  {
+   "file": "firestone_standard_platinum_past-3.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "platinum",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047195,
+   "count": 170
+  },
+  {
+   "file": "firestone_standard_platinum_past-7.json",
+   "source": "firestone",
+   "format": "standard",
+   "rank": "platinum",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047196,
+   "count": 240
+  },
+  {
+   "file": "firestone_wild_all_current-season.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "all",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047208,
+   "count": 206
+  },
+  {
+   "file": "firestone_wild_all_last-patch.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "all",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047207,
+   "count": 5385
+  },
+  {
+   "file": "firestone_wild_all_past-20.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "all",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047205,
+   "count": 3860
+  },
+  {
+   "file": "firestone_wild_all_past-3.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "all",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047204,
+   "count": 614
+  },
+  {
+   "file": "firestone_wild_all_past-7.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "all",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047204,
+   "count": 1257
+  },
+  {
+   "file": "firestone_wild_bronze-gold_current-season.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "bronze-gold",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047234,
+   "count": 102
+  },
+  {
+   "file": "firestone_wild_bronze-gold_last-patch.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "bronze-gold",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047233,
+   "count": 1354
+  },
+  {
+   "file": "firestone_wild_bronze-gold_past-20.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "bronze-gold",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047232,
+   "count": 954
+  },
+  {
+   "file": "firestone_wild_bronze-gold_past-3.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "bronze-gold",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047230,
+   "count": 263
+  },
+  {
+   "file": "firestone_wild_bronze-gold_past-7.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "bronze-gold",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047231,
+   "count": 358
+  },
+  {
+   "file": "firestone_wild_diamond_current-season.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "diamond",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047224,
+   "count": 79
+  },
+  {
+   "file": "firestone_wild_diamond_last-patch.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "diamond",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047223,
+   "count": 2625
+  },
+  {
+   "file": "firestone_wild_diamond_past-20.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "diamond",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047222,
+   "count": 1736
+  },
+  {
+   "file": "firestone_wild_diamond_past-3.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "diamond",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047220,
+   "count": 201
+  },
+  {
+   "file": "firestone_wild_diamond_past-7.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "diamond",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047221,
+   "count": 417
+  },
+  {
+   "file": "firestone_wild_legend-diamond_current-season.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "legend-diamond",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047219,
+   "count": 87
+  },
+  {
+   "file": "firestone_wild_legend-diamond_last-patch.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "legend-diamond",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047218,
+   "count": 4037
+  },
+  {
+   "file": "firestone_wild_legend-diamond_past-20.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "legend-diamond",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047216,
+   "count": 2820
+  },
+  {
+   "file": "firestone_wild_legend-diamond_past-3.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "legend-diamond",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047214,
+   "count": 231
+  },
+  {
+   "file": "firestone_wild_legend-diamond_past-7.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "legend-diamond",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047215,
+   "count": 719
+  },
+  {
+   "file": "firestone_wild_legend_current-season.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "legend",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047213,
+   "count": 8
+  },
+  {
+   "file": "firestone_wild_legend_last-patch.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "legend",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047212,
+   "count": 1631
+  },
+  {
+   "file": "firestone_wild_legend_past-20.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "legend",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047211,
+   "count": 1279
+  },
+  {
+   "file": "firestone_wild_legend_past-3.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "legend",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047209,
+   "count": 21
+  },
+  {
+   "file": "firestone_wild_legend_past-7.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "legend",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047210,
+   "count": 317
+  },
+  {
+   "file": "firestone_wild_platinum_current-season.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "platinum",
+   "period": "current-season",
+   "patch": null,
+   "updated": 1791047229,
+   "count": 40
+  },
+  {
+   "file": "firestone_wild_platinum_last-patch.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "platinum",
+   "period": "last-patch",
+   "patch": null,
+   "updated": 1791047228,
+   "count": 603
+  },
+  {
+   "file": "firestone_wild_platinum_past-20.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "platinum",
+   "period": "past-20",
+   "patch": null,
+   "updated": 1791047227,
+   "count": 406
+  },
+  {
+   "file": "firestone_wild_platinum_past-3.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "platinum",
+   "period": "past-3",
+   "patch": null,
+   "updated": 1791047225,
+   "count": 85
+  },
+  {
+   "file": "firestone_wild_platinum_past-7.json",
+   "source": "firestone",
+   "format": "wild",
+   "rank": "platinum",
+   "period": "past-7",
+   "patch": null,
+   "updated": 1791047226,
+   "count": 141
+  },
+  {
+   "file": "hsguru_standard_all_past_3_days.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "all",
+   "period": "past_3_days",
+   "patch": null,
+   "updated": 1791047270,
+   "count": 100
+  },
+  {
+   "file": "hsguru_standard_all_past_week.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "all",
+   "period": "past_week",
+   "patch": null,
+   "updated": 1791047304,
+   "count": 100
+  },
+  {
+   "file": "hsguru_standard_all_patch.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "all",
+   "period": "patch",
+   "patch": null,
+   "updated": 1791047338,
+   "count": 100
+  },
+  {
+   "file": "hsguru_standard_diamond_to_legend_past_3_days.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "diamond_to_legend",
+   "period": "past_3_days",
+   "patch": null,
+   "updated": 1791047371,
+   "count": 100
+  },
+  {
+   "file": "hsguru_standard_diamond_to_legend_past_week.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "diamond_to_legend",
+   "period": "past_week",
+   "patch": null,
+   "updated": 1791047404,
+   "count": 100
+  },
+  {
+   "file": "hsguru_standard_diamond_to_legend_patch.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "diamond_to_legend",
+   "period": "patch",
+   "patch": null,
+   "updated": 1791047437,
+   "count": 100
+  },
+  {
+   "file": "hsguru_standard_legend_past_3_days.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "legend",
+   "period": "past_3_days",
+   "patch": null,
+   "updated": 1791047470,
+   "count": 46
+  },
+  {
+   "file": "hsguru_standard_legend_past_week.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "legend",
+   "period": "past_week",
+   "patch": null,
+   "updated": 1791047504,
+   "count": 100
+  },
+  {
+   "file": "hsguru_standard_legend_patch.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "legend",
+   "period": "patch",
+   "patch": null,
+   "updated": 1791047506,
+   "count": 39
+  },
+  {
+   "file": "hsguru_standard_top_legend_past_3_days.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "top_legend",
+   "period": "past_3_days",
+   "patch": null,
+   "updated": 1791047509,
+   "count": 29
+  },
+  {
+   "file": "hsguru_standard_top_legend_past_week.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "top_legend",
+   "period": "past_week",
+   "patch": null,
+   "updated": 1791047513,
+   "count": 100
+  },
+  {
+   "file": "hsguru_standard_top_legend_patch.json",
+   "source": "hsguru",
+   "format": "standard",
+   "rank": "top_legend",
+   "period": "patch",
+   "patch": null,
+   "updated": 1791047515,
+   "count": 23
+  },
+  {
+   "file": "hsguru_wild_all_past_3_days.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "all",
+   "period": "past_3_days",
+   "patch": null,
+   "updated": 1791047520,
+   "count": 100
+  },
+  {
+   "file": "hsguru_wild_all_past_week.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "all",
+   "period": "past_week",
+   "patch": null,
+   "updated": 1791047525,
+   "count": 100
+  },
+  {
+   "file": "hsguru_wild_all_patch.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "all",
+   "period": "patch",
+   "patch": null,
+   "updated": 1791047530,
+   "count": 100
+  },
+  {
+   "file": "hsguru_wild_diamond_to_legend_past_3_days.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "diamond_to_legend",
+   "period": "past_3_days",
+   "patch": null,
+   "updated": 1791047535,
+   "count": 100
+  },
+  {
+   "file": "hsguru_wild_diamond_to_legend_past_week.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "diamond_to_legend",
+   "period": "past_week",
+   "patch": null,
+   "updated": 1791047539,
+   "count": 100
+  },
+  {
+   "file": "hsguru_wild_diamond_to_legend_patch.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "diamond_to_legend",
+   "period": "patch",
+   "patch": null,
+   "updated": 1791047544,
+   "count": 100
+  },
+  {
+   "file": "hsguru_wild_legend_past_3_days.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "legend",
+   "period": "past_3_days",
+   "patch": null,
+   "updated": 1791047548,
+   "count": 27
+  },
+  {
+   "file": "hsguru_wild_legend_past_week.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "legend",
+   "period": "past_week",
+   "patch": null,
+   "updated": 1791047553,
+   "count": 100
+  },
+  {
+   "file": "hsguru_wild_legend_patch.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "legend",
+   "period": "patch",
+   "patch": null,
+   "updated": 1791047556,
+   "count": 20
+  },
+  {
+   "file": "hsguru_wild_top_legend_past_3_days.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "top_legend",
+   "period": "past_3_days",
+   "patch": null,
+   "updated": 1791047559,
+   "count": 12
+  },
+  {
+   "file": "hsguru_wild_top_legend_past_week.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "top_legend",
+   "period": "past_week",
+   "patch": null,
+   "updated": 1791047562,
+   "count": 70
+  },
+  {
+   "file": "hsguru_wild_top_legend_patch.json",
+   "source": "hsguru",
+   "format": "wild",
+   "rank": "top_legend",
+   "period": "patch",
+   "patch": null,
+   "updated": 1791047565,
+   "count": 9
+  },
+  {
+   "file": "hsreplay_standard_bronze_gold_expansion.json",
+   "source": "hsreplay",
+   "format": "standard",
+   "rank": "bronze_gold",
+   "period": "expansion",
+   "patch": null,
+   "updated": 1791047235,
+   "count": 910
+  },
+  {
+   "file": "hsreplay_standard_bronze_gold_patch.json",
+   "source": "hsreplay",
+   "format": "standard",
+   "rank": "bronze_gold",
+   "period": "patch",
+   "patch": null,
+   "updated": 1791047235,
+   "count": 144
+  },
+  {
+   "file": "hsreplay_wild_bronze_gold_expansion.json",
+   "source": "hsreplay",
+   "format": "wild",
+   "rank": "bronze_gold",
+   "period": "expansion",
+   "patch": null,
+   "updated": 1791047236,
+   "count": 482
+  },
+  {
+   "file": "hsreplay_wild_bronze_gold_patch.json",
+   "source": "hsreplay",
+   "format": "wild",
+   "rank": "bronze_gold",
+   "period": "patch",
+   "patch": null,
+   "updated": 1791047235,
+   "count": 37
+  }
+ ]
+}
